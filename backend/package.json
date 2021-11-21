@@ -1,0 +1,19 @@
+{
+  "name": "backen-experts",
+  "version": "1.0.0",
+  "description": "aprendiendo backend con express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josdeivi90/express.git"
+  },
+  "author": "David Angarita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josdeivi90/express/issues"
+  },
+  "homepage": "https://github.com/josdeivi90/express#readme"
+}
